@@ -1,5 +1,5 @@
 
-<img src="./S__223576067.jpg" style="display:block; margin:auto; height:50%; width:50%;">
+<img src="./S__223576067.jpg" style="display:block; margin:auto; height:50%;">
 
 Hi there 👋
 # introduce
