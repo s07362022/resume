@@ -1,5 +1,5 @@
 
-![S__223576067](https://github.com/s07362022/resume/assets/68153902/8a3b895c-6600-41df-af70-dbaeda828a97)
+
 
 Hi there 👋
 # introduce
